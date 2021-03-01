@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#ffffff;
+    }
+    main {
+    width: 1200px;
+    margin: 50px auto; /* vnější okraj*/
+    border: 3px solid #f7f7f7; 
+    padding: 10px; /* vnitřní ohraničení */
+    }
+
+     h1 {
+text-align: center;
+     }
+
+     header > hr {
+width: 750px;
+}
+    
+header {
+    background-color: rgb(15, 83, 146);
+    padding: 18px;
+    color: white;
+    text-align: center;
+}
+
+    
+    footer {
+padding-top: 15px;
+padding-bottom: 5px;
+    }
