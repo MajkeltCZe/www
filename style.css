@@ -44,3 +44,9 @@ margin-bottom: 40px;
 padding-top: 15px;
 padding-bottom: 5px;
     }
+    
+    td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+      }
